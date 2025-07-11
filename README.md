@@ -163,7 +163,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Stay Updated and Join the Community
 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/faturoti-olayinka-29b8b32a7)
-- **Discord**: [Join our community to learn and grow together]([https://discord.gg/36h5f2Z5PK](https://substack.com/@faturotiolayinka?utm_source=user-menu))
+- **LinkedIn**: (www.linkedin.com/in/faturoti-olayinka-29b8b32a7)
+- **Subtask**: ([https://discord.gg/36h5f2Z5PK](https://substack.com/@faturotiolayinka?utm_source=user-menu))
 
 Thank you for your support, and I look forward to connecting with you!
